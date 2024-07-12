@@ -1,0 +1,1 @@
+pyinstaller ./botzapp.py --onefile --noconsole --add-binary "./src/*.png;src" --icon=./src/task.ico
